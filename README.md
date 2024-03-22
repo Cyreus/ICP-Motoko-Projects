@@ -38,8 +38,8 @@ dfx deploy
   
 ## Screenshots
 
-![](https://hizliresim.com/e3bgm65)
+![](https://i.hizliresim.com/e3bgm65.png)
 
-![](https://hizliresim.com/prwd7me)
+![](https://i.hizliresim.com/prwd7me.png)
 
   
