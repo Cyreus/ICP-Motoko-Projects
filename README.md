@@ -18,7 +18,7 @@ Frontend---> No Frontend Canister
 
 
 
-  Mail--->Muhammed_Ali95@outlook.com.tr
+  E-mail--->Muhammed_Ali95@outlook.com.tr
 
   Website--->www.muhammedaliozturk.great-site.net/
   
