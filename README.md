@@ -28,11 +28,11 @@ Frontend---> No Frontend Canister
 
 write in your terminal
 ```bash
---->dfx start --clean
+dfx start --clean
 ```
 then open the another terminal and we write
 ```bash
---->dfx deploy
+dfx deploy
 ```
 
   
