@@ -1,7 +1,7 @@
 
 # Motoko Projects
 
-Through the ICP Bootcamp training sessions, we developed mini projects written in the Motoko language. These projects served as a starting point for grasping smart contracts and developing extensive decentralized applications
+Through the ICP Bootcamp training sessions, we developed mini projects written in the Motoko language. These projects served as a starting point for grasping smart contracts and developing extensive decentralized applications.
 
 
 
@@ -17,12 +17,12 @@ Frontend---> No Frontend Canister
 
 
 
-  ```bash
+
   Mail--->Muhammed_Ali95@outlook.com.tr
 
   Website--->www.muhammedaliozturk.great-site.net/
   
- ```
+
 ## Starting
 
 
@@ -36,10 +36,10 @@ dfx deploy
 ```
 
   
-## Screenshots
-## Example screen on canister
+## SCREENSHOTS
+## Inputs
 ![Example screen on canister](https://i.hizliresim.com/e3bgm65.png)
-## Output 
+## Outputs
 ![Example output](https://i.hizliresim.com/prwd7me.png)
 
   
