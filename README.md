@@ -37,7 +37,7 @@ dfx deploy
 
   
 ## SCREENSHOTS
-## Example inputs in superhero projects
+## Example inputs in superhero project
 ![Example screen on canister](https://i.hizliresim.com/e3bgm65.png)
 ## Outputs 
 ![Example output](https://i.hizliresim.com/prwd7me.png)
