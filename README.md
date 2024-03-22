@@ -26,16 +26,13 @@ Frontend---> No Frontend Canister
 ## Starting
 
 
-
-```bash
 write in your terminal
-
---->dfx start --clean 
-
-then open the another one terminal and we write
-
+```bash
+--->dfx start --clean
+```
+then open the another terminal and we write
+```bash
 --->dfx deploy
-  
 ```
 
   
