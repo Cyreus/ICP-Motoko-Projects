@@ -37,7 +37,7 @@ dfx deploy
 
   
 ## Screenshots
-Example screen on canister
+## Example screen on canister
 ![Example screen on canister](https://i.hizliresim.com/e3bgm65.png)
 ## Output 
 ![Example output](https://i.hizliresim.com/prwd7me.png)
