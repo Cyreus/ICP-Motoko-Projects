@@ -38,8 +38,8 @@ dfx deploy
   
 ## Screenshots
 
-![](https://i.hizliresim.com/e3bgm65.png)
+![Example screen on canister](https://i.hizliresim.com/e3bgm65.png)
 
-![](https://i.hizliresim.com/prwd7me.png)
+![Example output](https://i.hizliresim.com/prwd7me.png)
 
   
