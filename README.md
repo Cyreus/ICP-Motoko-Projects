@@ -1,7 +1,7 @@
 
 # Motoko Projects
 
-Through the ICP Bootcamp training sessions, we developed mini projects written in the Motoko language. These projects served as a starting point for grasping smart contracts and developing extensive decentralized applications.
+Through the ICP Bootcamp training sessions, we developed mini projects written in the Motoko language. These projects served as a starting point for understanding smart contracts and developing extensive decentralized applications.
 
 
 
